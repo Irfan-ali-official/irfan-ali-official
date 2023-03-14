@@ -5,7 +5,7 @@
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
 </div>  
   
-### <div align="center">I'm Irfan, a full-time full-stack freelance developer 👨‍💻 working remotely since 2020 🚀</div>  
+### <div align="left">I'm Irfan, a full-time full-stack freelance developer 👨‍💻 working remotely since 2020 🚀</div>  
   
 - 🔭 I’m currently working on [Github Profilinator](https://github.com/Irfan-ali-official/IrfanAli)  
   
