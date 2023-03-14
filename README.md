@@ -7,7 +7,7 @@
   
 ### <div align="center">I'm Irfan, a full-time full-stack freelance developer 👨‍💻 working remotely since 2020 🚀</div>  
   
-- 🔭 I’m currently working on [Github Profilinator](https://github.com/muhammadmalook/muhammadmalook)  
+- 🔭 I’m currently working on [Github Profilinator](https://github.com/Irfan-ali-official/IrfanAli)  
   
 - 🌱 I’m currently learning React Native and CI CD  
   
@@ -106,7 +106,7 @@
 ----
 
 <!--
-**MuhammadMalook/MuhammadMalook** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Irfanali/irfanali** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -121,7 +121,7 @@ Here are some ideas to get you started:
 -->
 
 <!--
-**MuhammadMalook/MuhammadMalook** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Irfanali/irfanali** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
